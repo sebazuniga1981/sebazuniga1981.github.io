@@ -1,0 +1,17 @@
+body {
+    font-family: "Raleway", sans-serif;
+  }
+  /* seccion principal*/
+  #mi-seccion{
+    background-image: url("../imgs/Imagen\ de\ WhatsApp\ 2025-04-16\ a\ las\ 09.20.54_8c96cfb3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+
+  }
+  #seccion-habilities{
+background-color: antiquewhite;
+  }
+  #acordeon-master{
+   background-color: bisque;
+  }

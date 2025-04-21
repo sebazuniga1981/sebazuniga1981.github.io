@@ -1,6 +1,6 @@
 body {
     font-family: "Raleway", sans-serif;
-    background-color: bisque;
+    background-color: rgb(255, 255, 255);
   }
   /* seccion principal*/
   #mi-seccion{
@@ -11,8 +11,8 @@ body {
 
   }
   #seccion-habilities{
-background-color: antiquewhite;
+background-color: rgb(255, 255, 255);
   }
   #acordeon-master{
-   background-color: bisque;
+   background-color: rgb(255, 255, 255);
   }

@@ -1,9 +1,7 @@
 # sebazuniga1981.github.io
-
-# https://github.com/Rcaceresq/rcaceresq.github.io/pull/1
----
-
-# https://github.com/josecatalan30/josecatalan30.github.io/pull/1
+# pull request
+https://github.com/Rcaceresq/rcaceresq.github.io/pull/1
+https://github.com/josecatalan30/josecatalan30.github.io/pull/1
 
 ---
 
